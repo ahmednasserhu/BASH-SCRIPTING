@@ -31,3 +31,7 @@
 ![UNFOUND](https://github.com/ahmednasserhu/BASH-SCRIPTING/blob/main/bash-LAB1/12.png)
 #### 8- Get the sum of all accounts id’s.
 ![unfound](https://github.com/ahmednasserhu/BASH-SCRIPTING/blob/main/bash-LAB1/13.png)
+
+### Bonus
+#### 1. Get the sum of accounts id’s that has the same group.
+![UNFOUND](https://github.com/ahmednasserhu/BASH-SCRIPTING/blob/main/bash-LAB1/bonus.png)
