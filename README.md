@@ -13,7 +13,7 @@
 ![UNFOUND](https://github.com/ahmednasserhu/BASH-SCRIPTING/blob/main/bash-LAB1/4.png)
 #### 5- Substitute all the words that contain “lp” with “mylp” in /etc/passwd file.
 ![UNFOUND](https://github.com/ahmednasserhu/BASH-SCRIPTING/blob/main/bash-LAB1/5.png)
-### Using awk utility
+## Using awk utility
 #### 1- Print full name (comment) of all users in the system.
 ![UNFOUND](https://github.com/ahmednasserhu/BASH-SCRIPTING/blob/main/bash-LAB1/6.png)
 #### 2- Print login, full name (comment) and home directory of all users.( Print each line preceded by a line number)
